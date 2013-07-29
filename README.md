@@ -1,7 +1,3 @@
-NLineBreak
-==========
-
-A .NET implementation of the Line Breaking Algorithm (http://www.unicode.org/reports/tr14/).
 # About
 
 NLineBreak is a .NET implementation of the Line Breaking Algorithm (http://www.unicode.org/reports/tr14/).
