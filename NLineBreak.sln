@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLineBreak", "NLineBreak\NLineBreak.csproj", "{71D1D9FC-61B7-4265-8BCD-E42679873007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLineBreakDemo", "NLineBreakDemo\NLineBreakDemo.csproj", "{04EA4ECF-C4BB-4406-A6E8-97106E48B75C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicodeDataCodeGenerator", "UnicodeDataCodeGenerator\UnicodeDataCodeGenerator.csproj", "{82515522-80AA-4BAF-89CF-2DDC79CB2EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugMono|Any CPU = DebugMono|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseMono|Any CPU = ReleaseMono|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D1D9FC-61B7-4265-8BCD-E42679873007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D1D9FC-61B7-4265-8BCD-E42679873007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D1D9FC-61B7-4265-8BCD-E42679873007}.DebugMono|Any CPU.ActiveCfg = DebugMono|Any CPU
+		{71D1D9FC-61B7-4265-8BCD-E42679873007}.DebugMono|Any CPU.Build.0 = DebugMono|Any CPU
+		{71D1D9FC-61B7-4265-8BCD-E42679873007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D1D9FC-61B7-4265-8BCD-E42679873007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D1D9FC-61B7-4265-8BCD-E42679873007}.ReleaseMono|Any CPU.ActiveCfg = ReleaseMono|Any CPU
+		{71D1D9FC-61B7-4265-8BCD-E42679873007}.ReleaseMono|Any CPU.Build.0 = ReleaseMono|Any CPU
+		{04EA4ECF-C4BB-4406-A6E8-97106E48B75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EA4ECF-C4BB-4406-A6E8-97106E48B75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EA4ECF-C4BB-4406-A6E8-97106E48B75C}.DebugMono|Any CPU.ActiveCfg = DebugMono|Any CPU
+		{04EA4ECF-C4BB-4406-A6E8-97106E48B75C}.DebugMono|Any CPU.Build.0 = DebugMono|Any CPU
+		{04EA4ECF-C4BB-4406-A6E8-97106E48B75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EA4ECF-C4BB-4406-A6E8-97106E48B75C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04EA4ECF-C4BB-4406-A6E8-97106E48B75C}.ReleaseMono|Any CPU.ActiveCfg = ReleaseMono|Any CPU
+		{04EA4ECF-C4BB-4406-A6E8-97106E48B75C}.ReleaseMono|Any CPU.Build.0 = ReleaseMono|Any CPU
+		{82515522-80AA-4BAF-89CF-2DDC79CB2EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82515522-80AA-4BAF-89CF-2DDC79CB2EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82515522-80AA-4BAF-89CF-2DDC79CB2EAF}.DebugMono|Any CPU.ActiveCfg = DebugMono|Any CPU
+		{82515522-80AA-4BAF-89CF-2DDC79CB2EAF}.DebugMono|Any CPU.Build.0 = DebugMono|Any CPU
+		{82515522-80AA-4BAF-89CF-2DDC79CB2EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82515522-80AA-4BAF-89CF-2DDC79CB2EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82515522-80AA-4BAF-89CF-2DDC79CB2EAF}.ReleaseMono|Any CPU.ActiveCfg = ReleaseMono|Any CPU
+		{82515522-80AA-4BAF-89CF-2DDC79CB2EAF}.ReleaseMono|Any CPU.Build.0 = ReleaseMono|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
