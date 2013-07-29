@@ -8,8 +8,8 @@
     <ProjectGuid>{04EA4ECF-C4BB-4406-A6E8-97106E48B75C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LineBreakDemo</RootNamespace>
-    <AssemblyName>LineBreakDemo</AssemblyName>
+    <RootNamespace>NLineBreakDemo</RootNamespace>
+    <AssemblyName>NLineBreakDemo</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
